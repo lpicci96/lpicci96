@@ -17,5 +17,5 @@ My academic coursework and research have focused on areas including the politics
 
 ### A little more about me...
 
-Like most data science geeks, I'm usually working on some side projects for fun. I sometimes dabble with the #TidyTuesday challenge because I love data viz (and the R community is great!). Other than data stuff I love playing tennis and cooking - and I often help out at my [family's restaurant](https://www.instagram.com/aroma_caffe_167/?next=%2F) in Harare when I visit.
+I am originally from Italy, I grew up in Zimbabwe, I studied in the United States, and now I live in France - I'm a born digital nomad. Like most data science geeks, I'm usually working on some side projects for fun. I sometimes dabble with the #TidyTuesday challenge because I love data viz (and the R community is great!). Other than data stuff I love playing tennis (and most sposrts in general) and cooking - I often help out at my [family's restaurant](https://www.instagram.com/aroma_caffe_167/?next=%2F) in Harare when I visit. Feel free to reach out over email, twitter, or on LinkedIn to chat or collaborate on fun projects!
 
