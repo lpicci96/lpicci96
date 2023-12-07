@@ -2,7 +2,7 @@
 
 Hi! I am Luca. 
 
-I am  🇮🇹🇿🇼 Italian-Zimbabwean passionate about
+Here is a `<ul>` of things I usually do
 
 📈 data science and data visualisation
 
@@ -13,4 +13,4 @@ I am  🇮🇹🇿🇼 Italian-Zimbabwean passionate about
 🌎 International Affairs
 
 
-Reach out and learn more about me on my [personal website](https://lpicci96.github.io/LucaPicci/)!
+Check out my [personal website](https://lpicci96.github.io/LucaPicci/) for projects I work on and other things I do. Or reach out to get to know me!
